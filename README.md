@@ -1,1 +1,3 @@
-# Telecom-Churn-Project
+Customers in the telecom sector can actively switch between operators and select from a variety of service providers. The telecoms sector has an average yearly churn rate of 15–25% in this fiercely competitive market. Considering that acquiring a new customer is five to ten times more expensive than keeping an existing one, customer retention has now become more important than customer acquisition that# Telecom-Churn-Project. Retaining extremely lucrative clients is the top priority for many established operations. Telecom businesses must forecast which extremely profitable clients are likely to leave in order to lower customer attrition.
+
+In this project, we will analyse customer-level data of a leading telecom firm, build predictive models to identify customers at high risk of churn and identify the main indicators of churn.
